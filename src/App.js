@@ -16,7 +16,7 @@ function App() {
 
   return <main>
     <div className='section-title'>
-      <h1>{loading ? "Loading..." : "Paginate"}</h1>
+      <h1>{loading ? "Loading..." : "Pagination"}</h1>
       <div className='underline' />
     </div>
     <section className='followers'>
